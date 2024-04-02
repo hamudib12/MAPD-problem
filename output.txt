@@ -1,0 +1,576 @@
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+R   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 0
+agent time: 0
+agent expansions: 0
+agent movements: 0
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+R   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 1
+agent time: 0.0001
+agent expansions: 10
+agent movements: 0
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+R   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 2
+agent time: 1.0001
+agent expansions: 10
+agent movements: 1
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+R   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 3
+agent time: 2.0000999999999998
+agent expansions: 10
+agent movements: 2
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   R   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 4
+agent time: 3.0000999999999998
+agent expansions: 10
+agent movements: 3
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   R   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 5
+agent time: 4.0001
+agent expansions: 10
+agent movements: 4
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   *   R   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 6
+agent time: 5.0001
+agent expansions: 10
+agent movements: 5
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   *   *   R   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 7
+agent time: 6.0001
+agent expansions: 10
+agent movements: 6
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   *   *   *   R
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 8
+agent time: 7.0001
+agent expansions: 10
+agent movements: 7
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   R
+F                
+*   *   *   * B 0
+
+environment time: 9
+agent time: 8.0001
+agent expansions: 10
+agent movements: 8
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   R
+F                
+*   *   *   * B 0
+
+environment time: 10
+agent time: 8.0002
+agent expansions: 20
+agent movements: 8
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   *   *   *   R
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 11
+agent time: 9.0002
+agent expansions: 20
+agent movements: 9
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   *   *   R   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 12
+agent time: 10.0002
+agent expansions: 20
+agent movements: 10
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   *   R   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 13
+agent time: 11.0002
+agent expansions: 20
+agent movements: 11
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   *   *   *   *
+        B        
+*   R   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 14
+agent time: 12.0002
+agent expansions: 20
+agent movements: 12
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+1   R   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 15
+agent time: 13.0002
+agent expansions: 20
+agent movements: 13
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+R   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 16
+agent time: 14.0002
+agent expansions: 20
+agent movements: 14
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+R   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 17
+agent time: 14.0003
+agent expansions: 30
+agent movements: 14
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+R   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 18
+agent time: 15.0003
+agent expansions: 30
+agent movements: 15
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+R   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 19
+agent time: 15.00039
+agent expansions: 39
+agent movements: 15
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+R   *   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 20
+agent time: 16.00039
+agent expansions: 39
+agent movements: 16
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   R   *   *   *
+F                
+*   *   *   * B 0
+
+environment time: 21
+agent time: 17.00039
+agent expansions: 39
+agent movements: 17
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   R   *   *
+F                
+*   *   *   * B 0
+
+environment time: 22
+agent time: 18.00039
+agent expansions: 39
+agent movements: 18
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   R   *
+F                
+*   *   *   * B 0
+
+environment time: 23
+agent time: 19.00039
+agent expansions: 39
+agent movements: 19
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   R
+F                
+*   *   *   * B 0
+
+environment time: 24
+agent time: 20.00039
+agent expansions: 39
+agent movements: 20
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B R
+
+environment time: 25
+agent time: 21.00039
+agent expansions: 39
+agent movements: 21
+agent score: 0
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B R
+
+environment time: 26
+agent time: 21.00049
+agent expansions: 49
+agent movements: 21
+agent score: 1
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   R
+F                
+*   *   *   * B 1
+
+environment time: 27
+agent time: 22.00049
+agent expansions: 49
+agent movements: 22
+agent score: 1
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   R   *
+F                
+*   *   *   * B 1
+
+environment time: 28
+agent time: 23.00049
+agent expansions: 49
+agent movements: 23
+agent score: 1
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   R   *   *
+F                
+*   *   *   * B 1
+
+environment time: 29
+agent time: 24.00049
+agent expansions: 49
+agent movements: 24
+agent score: 1
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   R   *   *   *
+F                
+*   *   *   * B 1
+
+environment time: 30
+agent time: 25.00049
+agent expansions: 49
+agent movements: 25
+agent score: 1
+---------------------------------
+---------------------------------
+                    
+*   *   *   *   *
+        B        
+*   R   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 1
+
+environment time: 31
+agent time: 26.00049
+agent expansions: 49
+agent movements: 26
+agent score: 1
+---------------------------------
+---------------------------------
+                    
+*   R   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 1
+
+environment time: 32
+agent time: 27.00049
+agent expansions: 49
+agent movements: 27
+agent score: 1
+---------------------------------
+---------------------------------
+                    
+*   R   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 1
+
+environment time: 33
+agent time: 27.0005
+agent expansions: 50
+agent movements: 27
+agent score: 1
+---------------------------------
+---------------------------------
+                    
+R   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 1
+
+environment time: 34
+agent time: 28.0005
+agent expansions: 50
+agent movements: 28
+agent score: 1
+---------------------------------
+---------------------------------
+                    
+R   *   *   *   *
+        B        
+*   *   *   *   *
+                    
+*   *   *   *   *
+F                
+*   *   *   * B 1
+
+environment time: 35
+agent time: 28.0005
+agent expansions: 50
+agent movements: 28
+agent score: 2
+---------------------------------
